@@ -41,5 +41,8 @@ Pour ce faire l'application se divise en 3 Vues,
     <li>
         création d'une classe position avec un constructeur
     </li>
+    <li>
+        Placement de Marker sur la map pour ajouter un site favori
+    </li>
 </ul>
 </p>
