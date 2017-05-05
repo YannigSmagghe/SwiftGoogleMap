@@ -46,3 +46,9 @@ Pour ce faire l'application se divise en 3 Vues,
     </li>
 </ul>
 </p>
+
+<p>
+   Important ! pour générer la map, les marker ect, j'ai du utiliser ma clé API générer par google. Il va donc vous falloir regénérer une clé et la placé dans AppDelegate.
+</p>
+
+<p> Pour toute information complémentaire : smagghe.yannig@gmail.com</p>
