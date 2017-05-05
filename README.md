@@ -36,7 +36,7 @@ Pour ce faire l'application se divise en 3 Vues,
         De bonnes idées
     </li>
     <li>
-        Utilisation des données stockées    
+     Utilisation des données stockées    
     </li>
     <li>
         création d'une classe position avec un constructeur
